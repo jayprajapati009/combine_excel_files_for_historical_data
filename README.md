@@ -45,7 +45,7 @@ project-folder/
 Each time you open a new terminal/PowerShell session:
 
 ```powershell
-call .venv\Scripts\activate
+.\.venv\Scripts\Activate.ps1
 ```
 
 ### 4. Run the script
